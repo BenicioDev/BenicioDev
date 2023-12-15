@@ -1,6 +1,5 @@
 Olá, bem vindo ao meu perfil! 
 Me chamo Gabriel Benicio, sou estudante de Análise e Desenvolvimento de Sistemas e meu foco é a programação, com ênfase no desenvolvimento web, de sistemas e integração de sistemas com o desenvolvimento de APIs.
-A linguagem que estudo e que sou apaixonado é o Java, juntamente com o framework Spring boot.
 Aqui eu deixo registrado a minha jornada de aprendizado e meus projetos, até o próximo commit!
 
 
@@ -24,7 +23,10 @@ Aqui eu deixo registrado a minha jornada de aprendizado e meus projetos, até o 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/logo-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
+![Springboot](https://img.shields.io/badge/-Springboot-0D1117?style=for-the-badge&logo=Springboot&labelColor=0D1117)&nbsp;
+![python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
