@@ -15,6 +15,7 @@
 ### Tecnologias que estudo e que já tive contato:
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=0D1117)&nbsp;
+![Php](https://img.shields.io/badge/Php-007396?style=for-the-badge&logo=php&logoColor=white&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)&nbsp;
