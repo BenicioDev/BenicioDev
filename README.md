@@ -18,13 +18,13 @@
 <br>
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117)&nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/Php-007396?style=for-the-badge&logo=php&logoColor=white&labelColor=0D1117)&nbsp;
+![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117)&nbsp;
-![git](https://img.shields.io/badge/git-092E20?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)&nbsp;
-![github](https://img.shields.io/badge/github-092E20?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)&nbsp;
-![MySql](https://img.shields.io/badge/MySql-092E20?style=for-the-badge&logo=MySql&logoColor=white&labelColor=0D1117)&nbsp;
+![git](https://img.shields.io/badge/git-092E20?style=for-the-badge&logo=git&logoColor=white&labelColor=orange)&nbsp;
+![github](https://img.shields.io/badge/github-092E20?style=for-the-badge&logo=github&logoColor=white&labelColor=purple)&nbsp;
+![MySql](https://img.shields.io/badge/MySql-092E20?style=for-the-badge&logo=MySql&logoColor=white&labelColor=blue)&nbsp;
 ![postgresql](https://img.shields.io/badge/postgresql-092E20?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)&nbsp;
