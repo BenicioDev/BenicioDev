@@ -8,7 +8,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beniciodev&show_icons=true&theme=1E90FF) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beniciodev&theme=1E90FF)](https://github.com/beniciodev/github-readme-stats)
 
 <hr> 
 
