@@ -48,7 +48,7 @@
 
 <br>
 
-[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-282a36?style=for-the-badge&logo=appveyor&color=bd93f9)](https://drive.google.com/file/d/1SbEdkycjD0HNyCWq3r4Qkcorjv5ktcyH/view?usp=sharing)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/benicio_dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-gabriel-09a924179/)
 
