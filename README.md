@@ -16,19 +16,20 @@
 
 <br>
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117)&nbsp;
-![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-007396?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-007396?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117)&nbsp;
-![git](https://img.shields.io/badge/git-092E20?style=for-the-badge&logo=git&logoColor=white&labelColor=orange)&nbsp;
-![github](https://img.shields.io/badge/github-092E20?style=for-the-badge&logo=github&logoColor=white&labelColor=purple)&nbsp;
-![MySql](https://img.shields.io/badge/MySql-092E20?style=for-the-badge&logo=MySql&logoColor=white&labelColor=blue)&nbsp;
-![postgresql](https://img.shields.io/badge/postgresql-092E20?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)&nbsp;
+
+
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+
+![AntDesign](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)&nbsp;
+![MAterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+
+![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)&nbsp;
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![Openai](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 
 <hr> 
 
@@ -37,8 +38,8 @@
 
 <br>
 
-![ubuntu](https://img.shields.io/badge/ubuntu-092E20?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=0D1117)&nbsp;
-![linux](https://img.shields.io/badge/linux-092E20?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117)&nbsp;
+![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![windows](https://img.shields.io/badge/windows-092E20?style=for-the-badge&logo=windows&logoColor=white&labelColor=0D1117)&nbsp;
 
 <hr>
