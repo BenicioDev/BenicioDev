@@ -1,4 +1,4 @@
-### Tecnologias que estudo e que já tive contato :
+### Tecnologias que trabalho:
 ##### Technologies that you study and that I have already had contact with:
 
 <br>
